@@ -1,6 +1,8 @@
 # How to Choose an Open-Source AI Framework for User-Facing Applications
 A continually maintained framework selection guide for building customer-facing AI agents based on use case type.
 
+![Agency Quadrants](https://github.com/kichanyurd/guide-to-customer-facing-agent-frameworks/blob/main/Agency%20Quadrants.png?raw=true)
+
 This guide follows four quadrants of customer-facing use cases for AI agents.
 1. ✨ Creative Agency
 2. 🛠️ Task-Specific Agency
